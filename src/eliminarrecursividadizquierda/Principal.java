@@ -420,7 +420,7 @@ public class Principal extends javax.swing.JFrame {
         jScrollPane1.setViewportView(txt_entrada);
 
         jLabel5.setFont(new java.awt.Font("Liberation Sans", 1, 18)); // NOI18N
-        jLabel5.setText("Eliminación de Recursividad por la Izquierda");
+        jLabel5.setText("Eliminación de Recursividad por la Izquierda - 2022");
 
         jLabel6.setText("Arrastra acá el archivo...");
 
